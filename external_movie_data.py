@@ -3,6 +3,9 @@ import json
 import tmdbsimple as tmdb
 
 # Constants
+
+# 'Themoviedatabase' API KEY
+# Get yours in https://www.themoviedb.org/documentation/api
 tmdb.API_KEY = 'YOUR_TMDB_API_KEY'
 YOUTUBE_BASE_URL = 'https://www.youtube.com/watch?v='
 # Sizes array: [u'w92', u'w154', u'w185', u'w342', u'w500', u'w780', u'original']
